@@ -1,0 +1,4 @@
+repository "Hiekkalaatikko/Hiekkalaatikko@5772942555722@cloud"
+  path "/"
+    br "/main"
+    co "/main"
